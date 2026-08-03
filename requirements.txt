@@ -1,0 +1,11 @@
+scikit-learn
+sacremoses
+nltk
+torch
+transformers
+datasets
+wandb
+sentencepiece
+accelerate
+bitsandbytes
+scikit-multilearn-ng
